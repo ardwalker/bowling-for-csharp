@@ -1,6 +1,7 @@
 .DS_Store
 *.user
 *.suo
+*.ReSharper
 *resharper.user
 _ReSharper.*/
 *.orig
